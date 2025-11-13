@@ -1,3 +1,6 @@
+// 0. Confirm the file loaded
+console.log("Hangman JS loaded!");
+
 // 1. Game data
 const words = ["JAVASCRIPT", "BROWSER", "CODING", "HANGMAN", "WEBSITE", "EVENT", "FUNCTION"];
 const maxLives = 6;
