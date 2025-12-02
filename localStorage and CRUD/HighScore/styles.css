@@ -1,0 +1,9 @@
+.favorite-score {
+  background-color: #fff3cd; /* Bootstrap warning-light vibe */
+}
+
+.favorite-badge {
+  font-size: 0.8rem;
+  margin-left: 0.35rem;
+  color: #d97706;
+}
