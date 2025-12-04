@@ -1,0 +1,2 @@
+Deck of Cards API: https://deckofcardsapi.com/
+Random User Generator: https://randomuser.me/
